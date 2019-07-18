@@ -1,0 +1,1 @@
+go build -o bin/hello-world hello-world.go
